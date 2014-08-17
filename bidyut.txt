@@ -1,0 +1,3 @@
+Welcome Team, to Git Version Control System.
+
+Let's get the project STARTED! :D
